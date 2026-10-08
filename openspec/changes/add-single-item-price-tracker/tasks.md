@@ -22,9 +22,9 @@
 
 ## 4. Price page
 
-- [ ] 4.1 Build `index.html`: price in large lettering read from `data/price.json`, formatted as currency, with the product link underneath and nothing else; verify in a browser at desktop and phone widths
-- [ ] 4.2 Show "—" in place of the price when no price is recorded yet, keeping the link; verify by opening the page with an empty `data/price.json`
-- [ ] 4.3 Add a `noindex` robots meta tag; verify it is present in the served page
+- [x] 4.1 Build `index.html`: price in large lettering read from `data/price.json`, formatted as currency, with the product link underneath and nothing else; verify in a browser at desktop and phone widths
+- [x] 4.2 Show "—" in place of the price when no price is recorded yet, keeping the link; verify by opening the page with an empty `data/price.json`
+- [x] 4.3 Add a `noindex` robots meta tag; verify it is present in the served page
 
 ## 5. Deploy and check end to end
 
